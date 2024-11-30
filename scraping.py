@@ -9,8 +9,8 @@ from datetime import datetime
 # Xác nhận các dữ liệu
 symbol = "SOLUSDT"
 interval = "1m"  # 1m, 3m, 5m, 30m
-start_date ="2024-08-11"
-end_date = "2024-10-11"
+start_date ="2024-9-30"
+end_date = "2024-11-30"
 
 # def inputInfor():
 #     global symbol, interval, start_date, end_date
